@@ -1,0 +1,6 @@
+@url = http://localhost:5104
+
+GET {{url}}/api/posts
+Accept: application/json
+
+###
